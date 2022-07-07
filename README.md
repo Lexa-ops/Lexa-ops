@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Lexa-ops.
+- 👀 I’m interested in image/video processing, video saliency predictions, computer graphics, machine learning and deep learning.
+- 📫 How to reach me: Telegramm - @Al_3Xa or comment my github repositories.
